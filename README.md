@@ -66,7 +66,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the Repository**
 
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
+    https://github.com/Farhanisme/php-simple-web-based-attendance-system
     ```
 
     Alternatively, download the ZIP file and extract it.
